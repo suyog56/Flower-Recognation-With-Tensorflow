@@ -1,6 +1,7 @@
 pandas
 numpy
 boto3
+gdown
 tensorflow
 keras
 streamlit
